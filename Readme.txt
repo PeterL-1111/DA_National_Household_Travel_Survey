@@ -1,5 +1,5 @@
-Updated README Content
 Introduction
+
 This repository contains the Python code and methodologies used for various transportation analyses in the Richmond Metropolitan Planning Organization (MPO) area in Virginia. The studies incorporate various factors such as household size, number of vehicles, trip purposes, and trip lengths to generate insightful metrics. Matrix multiply and aggregation were used for trip table calculation. Weighting factors are applied to ensure the representativeness of the data.
 
 The major analyses done include National Household Travel Survey trip rates calculation, trip distribution calibration, average trip time validation.
